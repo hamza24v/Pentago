@@ -1,0 +1,24 @@
+{
+  "name": "pentago",
+  "version": "1.0.0",
+  "description": "A pentago board game digitized!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamza24v/Pentago.git"
+  },
+  "author": "Hamza Ali, Michael Peralta, Hamza Shueib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamza24v/Pentago/issues"
+  },
+  "homepage": "https://github.com/hamza24v/Pentago#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7",
+    "socket.io": "^4.6.1"
+  }
+}
